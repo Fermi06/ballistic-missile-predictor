@@ -10,12 +10,12 @@ A real-time missile tracking and impact prediction system built with Python. Sim
 
 ## Features
 
-- **Physics simulation** — ballistic flight model with atmospheric drag and altitude-dependent wind
-- **Radar modelling** — converts Cartesian state to range/azimuth/elevation with realistic measurement noise
-- **Extended Kalman Filter (EKF)** — non-linear state estimation from noisy radar returns
-- **Monte Carlo impact prediction** — 1000-sample covariance-weighted impact cloud with confidence scoring
-- **Machine learning pipeline** — Random Forest trained on simulated trajectory data to predict impact coordinates
-- **Live Streamlit dashboard** — trajectory plot, impact cloud, tactical map, threat level, and TTI updated on every run
+- **Physics simulation**: ballistic flight model with atmospheric drag and altitude-dependent wind
+- **Radar modelling**: converts Cartesian state to range/azimuth/elevation with realistic measurement noise
+- **Extended Kalman Filter (EKF)**: non-linear state estimation from noisy radar returns
+- **Monte Carlo impact prediction**: 1000-sample covariance-weighted impact cloud with confidence scoring
+- **Machine learning pipeline**: Random Forest trained on simulated trajectory data to predict impact coordinates
+- **Live Streamlit dashboard**: trajectory plot, impact cloud, tactical map, threat level, and TTI updated on every run
 
 ---
 
