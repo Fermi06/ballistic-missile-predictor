@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.zip
+all_code.txt
+all_code.txt~
